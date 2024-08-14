@@ -1,5 +1,5 @@
-##README for LinkedIn Job Scraper
-LinkedIn Job Scraper
+**README for LinkedIn Job Scraper**
+**LinkedIn Job Scraper**
 This Python script scrapes job postings from LinkedIn and saves the extracted data into JSON and CSV formats. The scraper uses Selenium for web automation and BeautifulSoup for HTML parsing.
 
 Features
